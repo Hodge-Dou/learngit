@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git links with GitHub.
 Creating a new branch is quick.
 Creating a dev branch.
+Creating a new branch is quick AND simple.
