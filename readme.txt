@@ -7,3 +7,4 @@ Creating a new branch is quick.
 Creating a dev branch.
 Creating a new branch is quick and simple.
 Test branch manage.
+Work on dev branch
